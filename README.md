@@ -1,5 +1,21 @@
 # Deep Learning–Based Intrusion Detection System (DL-IDS) - Report
 
+## Installation
+1. Clone the repository.
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+## Usage
+Run the sanity check to verify notebooks:
+```bash
+python sanity_check.py
+```
+To use the notebooks, start Jupyter:
+```bash
+jupyter notebook
+```
 
 ## 1. Executive summary
 
